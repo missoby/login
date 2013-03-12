@@ -1,0 +1,5 @@
+{
+    "require": {
+        "application/libraries/twig": "1.*"
+    }
+}
